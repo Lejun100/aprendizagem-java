@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/VetoresMatrizesArrays/ArrayList/ArrayList.iml" filepath="$PROJECT_DIR$/VetoresMatrizesArrays/ArrayList/ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Heranca/EmpresaSistemas/EmpresaSistemas.iml" filepath="$PROJECT_DIR$/Heranca/EmpresaSistemas/EmpresaSistemas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Encapsulamento/Encapsulamento.iml" filepath="$PROJECT_DIR$/Encapsulamento/Encapsulamento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VetoresMatrizesArrays/Gerenciador/Gerenciador.iml" filepath="$PROJECT_DIR$/VetoresMatrizesArrays/Gerenciador/Gerenciador.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Heranca/Heranca.iml" filepath="$PROJECT_DIR$/Heranca/Heranca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VetoresMatrizesArrays/LeituraArquivo/LeituraArquivo.iml" filepath="$PROJECT_DIR$/VetoresMatrizesArrays/LeituraArquivo/LeituraArquivo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VetoresMatrizesArrays/LeituraArquivo/LeituraArquivo2/LeituraArquivo2.iml" filepath="$PROJECT_DIR$/VetoresMatrizesArrays/LeituraArquivo/LeituraArquivo2/LeituraArquivo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListagemProdutos/ListagemProdutos.iml" filepath="$PROJECT_DIR$/ListagemProdutos/ListagemProdutos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VetoresMatrizesArrays/MapHash/MapHash.iml" filepath="$PROJECT_DIR$/VetoresMatrizesArrays/MapHash/MapHash.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OrientacaoObjetos.iml" filepath="$PROJECT_DIR$/OrientacaoObjetos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Heranca/Polimorfismo/Poliformismo.iml" filepath="$PROJECT_DIR$/Heranca/Polimorfismo/Poliformismo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Heranca/Polimorfismo2/Polimorfismo2.iml" filepath="$PROJECT_DIR$/Heranca/Polimorfismo2/Polimorfismo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VetoresMatrizesArrays/VetoresMatrizesArrays.iml" filepath="$PROJECT_DIR$/VetoresMatrizesArrays/VetoresMatrizesArrays.iml" />
+    </modules>
+  </component>
+</project>
